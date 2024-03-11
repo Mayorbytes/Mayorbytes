@@ -1,4 +1,4 @@
-- 👋 Hi there,
+- 👋 Hi there, I'm Julius!
 - 👀 I’m passionate about **data science, machine learning, and open-source projects**.
 - 🌱 Currently, I'm diving deep into **machine learning techniques**, exploring algorithms, and understanding how to extract valuable insights from data.
 - 💞️ I’m excited to collaborate on **projects related to predictive modeling, data visualization, and contributing to the vibrant data science community**.
